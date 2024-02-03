@@ -1,0 +1,5 @@
+.idea/
+__pycache__
+task_queue.db
+*.log
+cookies.json*
